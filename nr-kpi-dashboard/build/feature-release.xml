@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<feature>
+	<product-id>CNA 403 3643</product-id>
+	<feature-name>Ericsson-NR-KPI-Dashboard</feature-name>
+	<release>21.1</release>
+	<system-area>5g/NR NSA</system-area>
+    <datasource-guid>0a1cd6c2-16cc-4f04-8efd-9e71364942e8</datasource-guid> 
+    <ericsson-library>true</ericsson-library>
+</feature>
